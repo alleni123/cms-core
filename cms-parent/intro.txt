@@ -1,0 +1,8 @@
+网站所用的技术
+1, Maven分模块管理
+2, Spring+Hibernate+SpringMVC
+3, 页面采用Freemarker
+4, JS库使用JQuery
+5，树Ztree
+6， 上传文件， uploadify
+7， Ajax，DWR

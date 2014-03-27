@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+
+	<t_group_channel id="1" c_id="1" g_id="1"/>
+	<t_group_channel id="2" c_id="4" g_id="1"/>
+	<t_group_channel id="3" c_id="8" g_id="1"/>
+	<t_group_channel id="7" c_id="9" g_id="1"/>
+	<t_group_channel id="8" c_id="10" g_id="1"/>
+	
+
+	<t_group_channel id="4" c_id="2" g_id="2"/>
+	<t_group_channel id="5" c_id="3" g_id="2"/>
+	<t_group_channel id="6" c_id="5" g_id="2"/>
+
+
+	<t_user_group id="463" g_id="2" u_id="340"/>
+	<t_user_group id="468" g_id="2" u_id="2"/>
+	<t_user_group id="469" g_id="1" u_id="1"/>
+	<t_user_group id="1" u_id="1" g_id="1"/>
+	<t_user_group id="2" u_id="2" g_id="2"/>
+	
+	
+	
+
+</dataset>
